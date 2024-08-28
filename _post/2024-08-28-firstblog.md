@@ -1,4 +1,4 @@
 ---
-title: "First Blog"
+title: "firstblog"
 date: 2024-08-28
 ---
