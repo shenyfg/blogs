@@ -1,7 +1,5 @@
 ---
 title: "了解openstack"
-date: 2024-10-25
-categories: skills
 tags: openstack
 ---
 
